@@ -1,7 +1,3 @@
-Here’s your **updated GitHub Profile README** with your **full tech stack** and **AWS Solution Architect Certification** included. Copy and paste this into your **GitHub profile README.md**:
-
----
-
 # **👋 Hi, I'm Harshith Charugulla!**  
 🚀 **Frontend Developer | JavaScript | Angular | React | AWS Certified**  
 
